@@ -127,21 +127,7 @@ export default function ContactPage() {
         </div>
       </section>
 
-      {/* Optional Google Map Section */}
-      <section className="container my-5 text-center">
-        <h3 className="text-center mb-4">Our Location</h3>
-        <div className="embed-responsive embed-responsive-16by9">
-          <iframe
-            title="Google Map"
-            className="embed-responsive-item"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.423406370774!2d90.3563680153663!3d23.81030359454144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c72fdb7c8c1f%3A0x1db59b159a7fcb27!2sDhaka%20City%2C%20Bangladesh!5e0!3m2!1sen!2sus!4v1677691118365!5m2!1sen!2sus"
-            allowFullScreen=""
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          ></iframe>
-        </div>
-      </section>
-
+     
       {/* Contact Details */}
       <section className="container my-5">
         <h3 className="text-center mb-4">Contact Details</h3>
